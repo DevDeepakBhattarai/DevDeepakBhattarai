@@ -93,9 +93,12 @@ An AI-powered PDF analysis tool:
 ## 📈 GitHub Stats
 
 <div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDeepakBhattarai&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDeepakBhattarai&layout=compact&theme=dark&hide=html,css)
+  
 </div>
+
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out!
