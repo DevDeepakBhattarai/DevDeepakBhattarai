@@ -94,8 +94,8 @@ An AI-powered PDF analysis tool:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDeepakBhattarai&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDeepakBhattarai&layout=compact&theme=dark&hide=html,css)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDeepakBhattarai&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDeepakBhattarai&layout=compact&theme=dark&hide=html,css,javascript)
   
 </div>
 
