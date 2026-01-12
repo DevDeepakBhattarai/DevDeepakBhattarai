@@ -4,7 +4,7 @@
 
 * 🤖  Building AI-powered marketplaces
 * 🌍  Based in Kathmandu, Nepal 🇳🇵
-* 🧑‍💻  "Code that is more than just functional"
+* 🧑‍💻  "Best way of learning is Reverse Engineering"
 
 ### Tech I'm passionate about
 <div style="display: flex;">
@@ -30,3 +30,4 @@
 ---
 
 *Building the future of AI accessibility, one project at a time.*
+
